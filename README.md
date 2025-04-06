@@ -8,7 +8,7 @@ I'm a backend developer with a strong focus on **Python**, especially:
 
 Currently learning **React** ⚛️ to level up on the frontend side.
 
-🎯 Building a pet project to manage **personal finances** — combining code with money smarts.
+🎯 Building a [pet project](https://github.com/fibboo/finance) to manage **personal finances** — combining code with money smarts.
 
 Always up for solving meaningful problems and building things that make life easier 🚀
 
