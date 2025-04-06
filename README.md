@@ -12,7 +12,7 @@ Currently learning **React** ⚛️ to level up on the frontend side.
 
 Always up for solving meaningful problems and building things that make life easier 🚀
 
-Let's connect!
+📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/fibboo/)
 
 <!--
 **fibboo/fibboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
