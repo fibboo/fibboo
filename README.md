@@ -2,9 +2,9 @@
 
 I'm a backend developer with a strong focus on **Python**, especially:
 - ⚡️ FastAPI
-- ⛃ SQLAlchemy
+- 🧱 SQLAlchemy
 - 🛡️ Pydantic
-- 🔀 AsyncIO
+- 🔄 AsyncIO
 
 Currently learning **React** ⚛️ to level up on the frontend side.
 
